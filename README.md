@@ -1,7 +1,8 @@
 ### Hi there 👋, my name is Rohan Reddy
-![Profile views](https://gpvc.arturio.dev/rohanreddy888)  
+
 ![](https://firebasestorage.googleapis.com/v0/b/static-2192b.appspot.com/o/Rohan%20Reddy.png?alt=media&token=e0420018-4da0-4fd7-9168-007ebabc21e0)
 
+![Profile views](https://gpvc.arturio.dev/rohanreddy888)  
 
 Skills: REACT / NEXT / JS / TAILWINDCSS
 
