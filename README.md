@@ -7,7 +7,7 @@
   Building Web2/Web3 Products • ETHGlobal & ETHIndia Finalist • Full-stack Developer
 </p>
 
---
+
 
 ### About Me
 
@@ -17,7 +17,7 @@
 - 💬 Talk to me about **Web3**, **Next.js**, **Solidity**, **DeFi** & **Open Source**
 - 🌐 Portfolio: [rohanreddy.dev](https://rohanreddy.dev)
 
---
+
 
 ### Tech Stack
 
