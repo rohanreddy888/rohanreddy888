@@ -6,16 +6,16 @@
 
 
 <p align="center">
-  Building Web3 products & smart contracts • ETHGlobal & ETHIndia Finalist • Full-stack developer
+  Building Web2/Web3 Products • ETHGlobal & ETHIndia Finalist • Full-stack Developer
 </p>
 
 ---
 
 ### About Me
 
-- 🔭 Building **Brewit** — a smart wallet with passkey creation, DCA engine & multi-chain tracking
+- 🔭 Currently Building **Brewit** for making crypto wallet easy for everyone.
 - 🏆 **ETHGlobal Finalist** (IgrisAI) • **ETHIndia Finalist** (Tapify)
-- 🌱 Exploring account abstraction, EIP-7702 & cross-chain infra
+- 🌱 Exploring Account Abstraction (AA), EIP-7702 & Cross-Chain Infra
 - 💬 Talk to me about **Web3**, **Next.js**, **Solidity**, **DeFi** & **Open Source**
 - 🌐 Portfolio: [rohanreddy.dev](https://rohanreddy.dev)
 
