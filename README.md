@@ -41,34 +41,8 @@
   </a>
 </p>
 
----
 
-### Connect With Me
+**Links**
 
-<p align="center">
-  <a href="https://rohanreddy.dev">
-    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png" width="40" height="40" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/rohanreddy888">
-    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" width="40" height="40" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/rohanreddy888">
-    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" width="40" height="40" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/rohanreddy888">
-    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg" width="40" height="40" alt="Twitter" />
-  </a>
-</p>
+[Portfolio](https://rohanreddy.dev) · [GitHub](https://github.com/rohanreddy888) · [LinkedIn](https://www.linkedin.com/in/rohanreddy888) · [Twitter](https://twitter.com/rohanreddy888) · [Book a call](https://calendly.com/rohanreddy888/30min)
 
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohanreddy888&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanreddy888&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/rohanreddy888?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto" alt="Metrics" />
-</p>
