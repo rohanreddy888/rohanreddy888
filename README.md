@@ -6,6 +6,8 @@
   Building Web2/Web3 Products • ETHGlobal & ETHIndia Finalist • Full-stack Developer
 </p>
 
+---
+
 ### About Me
 
 - 🔭 Currently Building **Brewit** for making crypto wallet easy for everyone.
@@ -14,11 +16,13 @@
 - 💬 Talk to me about **Web3**, **Next.js**, **Solidity**, **DeFi** & **Open Source**
 - 🌐 Portfolio: [rohanreddy.dev](https://rohanreddy.dev)
 
+---
 
 ### 🔗 Links
 
 [Portfolio](https://rohanreddy.dev) · [GitHub](https://github.com/rohanreddy888) · [LinkedIn](https://www.linkedin.com/in/rohanreddy888) · [Twitter](https://twitter.com/rohanreddy888) · [Book a call](https://calendly.com/rohanreddy888/30min)
 
+---
 
 ### 💻 Tech Stack
 
