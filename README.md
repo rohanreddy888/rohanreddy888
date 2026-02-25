@@ -1,6 +1,4 @@
-<div align="center">
-  <img width="100%" height="100%" src="https://firebasestorage.googleapis.com/v0/b/static-2192b.appspot.com/o/Rohan%20Reddy.png?alt=media&token=e0420018-4da0-4fd7-9168-007ebabc21e0" alt="cover" />
-</div>
+
 
 <h1 align="center">Hi, I'm Rohan Reddy <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width="50" height="50" /></h1>
 
