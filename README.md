@@ -2,12 +2,9 @@
 
 <h1 align="center">Hi, I'm Rohan Reddy <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width="50" height="50" /></h1>
 
-
 <p align="center">
   Building Web2/Web3 Products • ETHGlobal & ETHIndia Finalist • Full-stack Developer
 </p>
-
-
 
 ### About Me
 
@@ -18,12 +15,12 @@
 - 🌐 Portfolio: [rohanreddy.dev](https://rohanreddy.dev)
 
 
-**Links**
+### 🔗 Links
 
 [Portfolio](https://rohanreddy.dev) · [GitHub](https://github.com/rohanreddy888) · [LinkedIn](https://www.linkedin.com/in/rohanreddy888) · [Twitter](https://twitter.com/rohanreddy888) · [Book a call](https://calendly.com/rohanreddy888/30min)
 
 
-### Tech Stack
+### 💻 Tech Stack
 
 <p align="center">
   <a href="https://github.com/rohanreddy888?tab=repositories&q=&type=&language=javascript&sort=">
