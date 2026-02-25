@@ -4,9 +4,6 @@
 
 <h1 align="center">Hi, I'm Rohan Reddy <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width="50" height="50" /></h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rohanreddy888&style=flat-square&color=blue" alt="profile views" />
-</p>
 
 <p align="center">
   Building Web3 products & smart contracts • ETHGlobal & ETHIndia Finalist • Full-stack developer
