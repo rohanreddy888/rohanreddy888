@@ -2,11 +2,12 @@
 
 <h1 align="center">Hi, I'm Rohan Reddy <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width="50" height="50" /></h1>
 
+---
+
 <p align="center">
   Building Web2/Web3 Products • ETHGlobal & ETHIndia Finalist • Full-stack Developer
 </p>
 
----
 
 ### About Me
 
